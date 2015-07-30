@@ -1,4 +1,5 @@
 Revision history for App-SSH-Cluster
 
 {{$NEXT}}
-    -
+    - initial release
+    - runs a single command on a remote server and dumps the STDOUT of that command to the STDOUT of the calling process in a hostname delimited format

@@ -1,0 +1,30 @@
+#!/usr/bin/env perl
+# PODNAME: clusterssh
+
+use strict;
+use warnings; 
+
+use App::SSH::Cluster;
+App::SSH::Cluster->new_with_options->run;
+
+1;
+
+__END__
+
+=pod 
+
+=head1 NAME
+
+clusterssh
+
+=head1 DESCRIPTION 
+
+CLI to execute the same command on one or more remote servers at the same time
+
+=head1 USAGE
+
+=head1 OPTIONS
+
+=head1 SYNOPSIS
+
+=cut
