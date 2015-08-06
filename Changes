@@ -2,6 +2,8 @@ Revision history for App-SSH-Cluster
 
 {{$NEXT}}
 
+0.002       2015-08-06
+
 0.001       2015-07-30
     - initial release
     - runs a single command on a remote server and dumps the STDOUT of that command to the STDOUT of the calling process in a hostname delimited format
