@@ -1,6 +1,8 @@
 Revision history for App-SSH-Cluster
 
 {{$NEXT}}
+
+0.003       2015-08-11
     - replace incorrect import; List::MoreUtils qw(all) for List::Util qw(all)
 0.002       2015-08-06
     - changed minimum Perl version to 5.14 
