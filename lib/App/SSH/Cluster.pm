@@ -4,7 +4,7 @@ package App::SSH::Cluster;
 use strict;
 use warnings;
 
-use List::Util qw(all);
+use List::MoreUtils qw(all);
 use MooseX::App::Simple;
 use MooseX::Types::Moose qw/HashRef Str/;
 use Net::OpenSSH::Parallel;
