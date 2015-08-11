@@ -8,7 +8,7 @@ App::SSH::Cluster - CLI to Net::OpenSSH that runs the same command via SSH on ma
 
 # VERSION
 
-version 0.003
+version 0.004
 
 # SYNOPSIS
 
